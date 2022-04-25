@@ -1,0 +1,22 @@
+Chemin base de donnée
+Taille en pixel d'une case
+
+Nom mode
+Taille X
+Taille Y
+Nombre de mine
+
+Nom mode
+Taille X
+Taille Y
+Nombre de mine
+
+Nom mode
+Taille X
+Taille Y
+Nombre de mine
+
+...
+...
+...
+...
